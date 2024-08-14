@@ -1,0 +1,34 @@
+{
+  "email_verified": "true",
+	"email": "johnny.moreira@minu.co",
+	"name": "Johnny Moreira",
+	"type": "PJ",
+	"services": [
+		"minu-shop 2.0"
+	],
+	"document": "28167513000100",
+	"payment_gateway": [
+		{
+			"name": "Pagar-me",
+			"id": "re_xpto"
+		},
+		{
+			"name": "Mercado Pago",
+			"id": "mp_xpto"
+		}
+	],
+	"address": {
+		"street": "Rua do Johnny",
+		"number": "123",
+		"complement": "Sala 1",
+		"neighborhood": "Bairro do Johnny",
+		"city": "São Paulo",
+		"state": "SP",
+		"zip_code": "12345-678"
+	},
+	"company_name": {
+		"name": "Johnny ME",
+		"email": "johnnyme@johnny.com"
+	},
+	"sub": "08f113a0-6001-709d-b533-fac64fe15093"
+}
